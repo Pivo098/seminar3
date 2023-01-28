@@ -61,7 +61,10 @@
 
     git log --oneline
 
-6. git log --all
+## Отобра
+
+    git log --all
+
 2. git --all --oneline
 4. git diff
 6. git checkout

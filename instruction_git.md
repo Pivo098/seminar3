@@ -62,7 +62,7 @@
     git log --oneline
 
 ## Отобра
-
+gg
     git log --all
 
 2. git --all --oneline
